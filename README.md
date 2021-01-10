@@ -1,5 +1,12 @@
 # radarByArduinoAndProcessing
 
+## 아두이노와 프로세싱을 이용한 레이더  
+### * 아두이노와 초음파 센서를 이용해 거리를 측정함  
+### * 측정한 값을 각도와 거리가 포함된 문자열로 만들고, 시리얼 통신을 통해 프로세싱으로 전송  
+### * 프로세싱은 전송받은 값을 분해하여 각도와 거리 변수에 넣음  
+### * 이미지를 그리고, 각도와 거리 변수에 들어간 값에 따라 각도별로 빨간색 선을 덧붙여 넣어 화면에 표시함  
+
+
 ## 레이더 그림  
 ![](https://github.com/mtinet/radarByArduinoAndProcessing/blob/main/image/1.png?raw=true)  
 
