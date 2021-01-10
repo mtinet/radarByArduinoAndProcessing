@@ -21,3 +21,6 @@
 
 ## 모든 함수가 다 동작하는 그림  
 ![](https://github.com/mtinet/radarByArduinoAndProcessing/blob/main/image/5.png?raw=true)  
+
+## 테스트 영상 캡쳐  
+![](https://github.com/mtinet/radarByArduinoAndProcessing/blob/main/image/6.png?raw=true)  
