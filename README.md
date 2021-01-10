@@ -6,6 +6,8 @@
 ### * 프로세싱은 전송받은 값을 분해하여 각도와 거리 변수에 넣음  
 ### * 이미지를 그리고, 각도와 거리 변수에 들어간 값에 따라 각도별로 빨간색 선을 덧붙여 넣어 화면에 표시함  
 
+## 아두이노 회로도  
+![](https://github.com/mtinet/radarByArduinoAndProcessing/blob/main/image/circuit.png?raw=true)  
 
 ## 레이더 그림  
 ![](https://github.com/mtinet/radarByArduinoAndProcessing/blob/main/image/1.png?raw=true)  
