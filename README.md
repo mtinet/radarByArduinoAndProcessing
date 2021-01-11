@@ -26,3 +26,4 @@
 
 ## 테스트 영상 캡쳐  
 ![](https://github.com/mtinet/radarByArduinoAndProcessing/blob/main/image/6.png?raw=true)  
+![](https://github.com/mtinet/radarByArduinoAndProcessing/blob/main/image/7.png?raw=true)
