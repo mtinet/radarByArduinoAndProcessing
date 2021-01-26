@@ -6,7 +6,7 @@ const int trigPin = 10;
 const int echoPin = 11;
 
 // 서보모터 핀 설정
-const int servoPin = 9;
+const int servoPin = 12;
 
 // 초음파 시간(duration), 거리(distance) 변수 설정  
 long duration;
